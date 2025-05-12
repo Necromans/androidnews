@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_array">
+        <item>Almaty</item>
+        <item>Astana</item>
+        <item>Shymkent</item>
+        <item>Karakandy</item>
+        <item>Taraz</item>
+    </string-array>
+</resources>
